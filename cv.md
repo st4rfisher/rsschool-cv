@@ -33,3 +33,13 @@ Junior Web Developer. I have interested in the field of web development for a ye
 ## Experience
 
 I have’t experience in commercial development.
+
+
+## Education
+
+I have studied web development at the HTML Academy for a year. I periodically read the book by Keith J. Grant named "CSS in Depth".
+I studied at the Moscow State University of Instrument Engineering and Informatics from 2013 to 2017.
+
+## English skill
+
+English skill at the Intermediate or Pre-Intermediate level. I understand most of the written words, spoken English is Pre-Intermediate.
